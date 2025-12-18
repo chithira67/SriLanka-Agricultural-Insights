@@ -1,0 +1,37 @@
+crop,year,value,metric
+      Tea (mn kg),2006,327.4,volume
+      Rubber (mn kg),2006,46.6,volume
+      Coconut (mn nuts) (numbers are given under category 18),2006,456.0,volume
+      Tea (mn kg),2007,311.7,volume
+      Rubber (mn kg),2007,51.4,volume
+      Coconut (mn nuts) (numbers are given under category 18),2007,457.0,volume
+      Tea (mn kg),2008,319.604281,volume
+      Rubber (mn kg),2008,48.617861,volume
+      Coconut (mn nuts) (numbers are given under category 18),2008,380.3730196,volume
+      Tea (mn kg),2009,289.709354,volume
+      Rubber (mn kg),2009,55.990664,volume
+      Coconut (mn nuts) (numbers are given under category 18),2009,366.6337412,volume
+      Tea (mn kg),2010,328.033867,volume
+      Rubber (mn kg),2010,51.863961,volume
+      Coconut (mn nuts) (numbers are given under category 18),2010,251.1434841,volume
+      Tea (mn kg),2011,323.01208,volume
+      Rubber (mn kg),2011,42.60641,volume
+      Coconut (mn nuts) (numbers are given under category 18),2011,385.7278239,volume
+      Tea (mn kg),2012,319.945774,volume
+      Rubber (mn kg),2012,37.377057,volume
+      Coconut (mn nuts) (numbers are given under category 18),2012,350.694604,volume
+      Tea (mn kg),2006,881.2,value_usd_mn
+      Rubber (mn kg),2006,93.1,value_usd_mn
+      Coconut (mn nuts) (numbers are given under category 18),2006,123.9,value_usd_mn
+      Tea (mn kg),2007,1025.0,value_usd_mn
+      Rubber (mn kg),2007,109.4,value_usd_mn
+      Coconut (mn nuts) (numbers are given under category 18),2007,128.5,value_usd_mn
+      Tea (mn kg),2008,1272.0,value_usd_mn
+      Rubber (mn kg),2008,124.9334003,value_usd_mn
+      Coconut (mn nuts) (numbers are given under category 18),2008,145.1333576,value_usd_mn
+      Tea (mn kg),2011,1490.898234,value_usd_mn
+      Rubber (mn kg),2011,206.3150397,value_usd_mn
+      Coconut (mn nuts) (numbers are given under category 18),2011,265.9743723,value_usd_mn
+      Tea (mn kg),2012,1411.9187,value_usd_mn
+      Rubber (mn kg),2012,125.107677,value_usd_mn
+      Coconut (mn nuts) (numbers are given under category 18),2012,208.898246,value_usd_mn

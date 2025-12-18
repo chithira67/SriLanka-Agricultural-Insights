@@ -1,0 +1,128 @@
+crop,year,metric,value
+   Tea  (mn kg),2006,production,310.8
+   Rubber  (mn kg),2006,production,109.2
+   Coconut (mn nuts),2006,production,2785.0
+   Coffee (mt),2006,production,3500.0
+   Cocoa (mt),2006,production,810.0
+   Cinnamon  (mt),2006,production,15900.0
+   Pepper (mt),2006,production,14440.0
+   Clove (mt),2006,production,3575.0
+   Cardamom (mt),2006,production,80.0
+   Nutmeg and Mace  (mt),2006,production,1925.0
+   Cashew kernals  (mt),2006,production,1944.0
+   Paddy (mt '000),2006,production,3342.0
+Sugar Production (by Year) (mt '000),2006,production,56.0
+   Tea  (mn kg),2007,production,305.2
+   Rubber  (mn kg),2007,production,117.6
+   Coconut (mn nuts),2007,production,2869.0
+   Coffee (mt),2007,production,2979.0
+   Cocoa (mt),2007,production,393.0
+   Cinnamon  (mt),2007,production,16505.0
+   Pepper (mt),2007,production,16597.0
+   Clove (mt),2007,production,2990.0
+   Cardamom (mt),2007,production,90.0
+   Nutmeg and Mace  (mt),2007,production,5553.0
+   Cashew kernals  (mt),2007,production,2331.0
+   Paddy (mt '000),2007,production,3131.0
+Sugar Production (by Year) (mt '000),2007,production,29.0
+   Tea  (mn kg),2008,production,318.7
+   Rubber  (mn kg),2008,production,129.2
+   Coconut (mn nuts),2008,production,2909.0
+   Coffee (mt),2008,production,3081.0
+   Cocoa (mt),2008,production,1695.0
+   Cinnamon  (mt),2008,production,14899.0
+   Pepper (mt),2008,production,12897.0
+   Clove (mt),2008,production,8203.0
+   Cardamom (mt),2008,production,71.0
+   Nutmeg and Mace  (mt),2008,production,2174.0
+   Cashew kernals  (mt),2008,production,1000.0
+   Paddy (mt '000),2008,production,3875.0
+Sugar Production (by Year) (mt '000),2008,production,39.0
+   Tea  (mn kg),2009,production,291.0
+   Rubber  (mn kg),2009,production,136.9
+   Coconut (mn nuts),2009,production,2762.0
+   Coffee (mt),2009,production,3125.0
+   Cocoa (mt),2009,production,467.0
+   Cinnamon  (mt),2009,production,15765.0
+   Pepper (mt),2009,production,15767.0
+   Clove (mt),2009,production,3032.0
+   Cardamom (mt),2009,production,61.0
+   Nutmeg and Mace  (mt),2009,production,1740.0
+   Cashew kernals  (mt),2009,production,2400.0
+   Paddy (mt '000),2009,production,3652.0
+Sugar Production (by Year) (mt '000),2009,production,32.0
+   Tea  (mn kg),2010,production,331.4
+   Rubber  (mn kg),2010,production,153.2
+   Coconut (mn nuts),2010,production,2584.0
+   Coffee (mt),2010,production,3164.0
+   Cocoa (mt),2010,production,520.0
+   Cinnamon  (mt),2010,production,16435.0
+   Pepper (mt),2010,production,17332.0
+   Clove (mt),2010,production,9551.0
+   Cardamom (mt),2010,production,48.0
+   Nutmeg and Mace  (mt),2010,production,2376.0
+   Cashew kernals  (mt),2010,production,1200.0
+   Paddy (mt '000),2010,production,4301.0
+Sugar Production (by Year) (mt '000),2010,production,31.0
+   Tea  (mn kg),2011,production,327.5
+   Rubber  (mn kg),2011,production,158.2
+   Coconut (mn nuts),2011,production,2808.0
+   Coffee (mt),2011,production,2974.0
+   Cocoa (mt),2011,production,525.0
+   Cinnamon  (mt),2011,production,18250.0
+   Pepper (mt),2011,production,10800.0
+   Clove (mt),2011,production,5533.0
+   Cardamom (mt),2011,production,57.0
+   Nutmeg and Mace  (mt),2011,production,2206.0
+   Cashew kernals  (mt),2011,production,1200.0
+   Paddy (mt '000),2011,production,3894.0
+Sugar Production (by Year) (mt '000),2011,production,35.0
+   Tea  (mn kg),2012,production,328.4
+   Rubber  (mn kg),2012,production,152.0
+   Coconut (mn nuts),2012,production,2940.0
+   Coffee (mt),2012,production,3000.0
+   Cocoa (mt),2012,production,513.0
+   Cinnamon  (mt),2012,production,17165.0
+   Pepper (mt),2012,production,18604.0
+   Clove (mt),2012,production,4009.0
+   Cardamom (mt),2012,production,80.0
+   Nutmeg and Mace  (mt),2012,production,2002.0
+   Cashew kernals  (mt),2012,production,2000.0
+   Paddy (mt '000),2012,production,3846.0
+Sugar Production (by Year) (mt '000),2012,production,36.0
+      Tea (mn kg),2006,volume,327.4
+      Rubber (mn kg),2006,volume,46.6
+      Coconut (mn nuts) (numbers are given under category 18),2006,volume,456.0
+      Tea (mn kg),2007,volume,311.7
+      Rubber (mn kg),2007,volume,51.4
+      Coconut (mn nuts) (numbers are given under category 18),2007,volume,457.0
+      Tea (mn kg),2008,volume,319.604281
+      Rubber (mn kg),2008,volume,48.617861
+      Coconut (mn nuts) (numbers are given under category 18),2008,volume,380.3730196
+      Tea (mn kg),2009,volume,289.709354
+      Rubber (mn kg),2009,volume,55.990664
+      Coconut (mn nuts) (numbers are given under category 18),2009,volume,366.6337412
+      Tea (mn kg),2010,volume,328.033867
+      Rubber (mn kg),2010,volume,51.863961
+      Coconut (mn nuts) (numbers are given under category 18),2010,volume,251.1434841
+      Tea (mn kg),2011,volume,323.01208
+      Rubber (mn kg),2011,volume,42.60641
+      Coconut (mn nuts) (numbers are given under category 18),2011,volume,385.7278239
+      Tea (mn kg),2012,volume,319.945774
+      Rubber (mn kg),2012,volume,37.377057
+      Coconut (mn nuts) (numbers are given under category 18),2012,volume,350.694604
+      Tea (mn kg),2006,value_usd_mn,881.2
+      Rubber (mn kg),2006,value_usd_mn,93.1
+      Coconut (mn nuts) (numbers are given under category 18),2006,value_usd_mn,123.9
+      Tea (mn kg),2007,value_usd_mn,1025.0
+      Rubber (mn kg),2007,value_usd_mn,109.4
+      Coconut (mn nuts) (numbers are given under category 18),2007,value_usd_mn,128.5
+      Tea (mn kg),2008,value_usd_mn,1272.0
+      Rubber (mn kg),2008,value_usd_mn,124.9334003
+      Coconut (mn nuts) (numbers are given under category 18),2008,value_usd_mn,145.1333576
+      Tea (mn kg),2011,value_usd_mn,1490.898234
+      Rubber (mn kg),2011,value_usd_mn,206.3150397
+      Coconut (mn nuts) (numbers are given under category 18),2011,value_usd_mn,265.9743723
+      Tea (mn kg),2012,value_usd_mn,1411.9187
+      Rubber (mn kg),2012,value_usd_mn,125.107677
+      Coconut (mn nuts) (numbers are given under category 18),2012,value_usd_mn,208.898246
